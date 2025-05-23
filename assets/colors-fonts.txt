@@ -1,0 +1,7 @@
+màu nền header: linear-gradient(to right,#102735 0%,#3c335f 51%,#102735 100%)
+màu chữ tím: #574ca2
+màu chữ xanh: #2a686d
+màu chữ xanh da trời nhạt: #03A9F4
+màu cam: #ff6d00, #f1bb5f
+màu chữ xám đậm: #0a0a0a
+font-family: "Roboto", sans-serif
